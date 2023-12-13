@@ -1,0 +1,12 @@
+-----------------------------Result------------------------------------
+Added Cookie parameters:
+
+ lastseen
+
+Removed Cookie parameters:
+ id
+
+Unchanged parameters:
+
+session
+url

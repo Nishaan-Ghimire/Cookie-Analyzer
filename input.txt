@@ -1,0 +1,2 @@
+Cookie: id=1234234;session=asdasdasdfsdfsdgsdfgsdfg;url=https://demo.com;
+Cookie: lastseen=1232132;session=sdfdsfgsdfgsgfdgdfg;url=https://demo.com;
